@@ -1,0 +1,1 @@
+# V6\nInstall: pip install -r requirements.txt\nRun engine: python engine.py\nRun dashboard: python -m streamlit run dashboard.py\n
